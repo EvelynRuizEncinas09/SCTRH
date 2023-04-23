@@ -1,0 +1,15 @@
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\bin\Debug\SCT-RH.exe.config
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\bin\Debug\SCT-RH.exe
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\bin\Debug\SCT-RH.pdb
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\obj\Debug\SCT-RH.csprojAssemblyReference.cache
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\obj\Debug\SCT_RH.FORMS.AltaEmpleados.resources
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\obj\Debug\SCT_RH.Menu.resources
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\obj\Debug\SCT_RH.Properties.Resources.resources
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\obj\Debug\SCT-RH.csproj.GenerateResource.cache
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\obj\Debug\SCT-RH.csproj.CoreCompileInputs.cache
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\obj\Debug\SCT-RH.exe
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\obj\Debug\SCT-RH.pdb
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\obj\Debug\SCT_RH.Login.resources
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\obj\Debug\SCT_RH.FORMS.Empleado.resources
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Evelyn Ruiz\source\repos\SCT-RH\obj\Debug\SCT-RH.csproj.CopyComplete
